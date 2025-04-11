@@ -16,7 +16,7 @@ Below is a list of individuals who have contributed to RetroFusion:
 
 ### Core Contributors
 
-- **[Yash Shukla](https://github.com/StudiYash)** - Project Creator and Lead Developer
+- **[Yash Shukla](https://github.com/StudiYash)** - Project Creator, Lead Developer and Repository Maintainer
 
 ### Special Thanks
 

@@ -24,7 +24,7 @@ Each game within the RetroFusion ecosystem may include third-party assets such a
 
 All subprojects are expected to document their own third-party asset usage clearly.
 
-> For asset usage details specific to individual games, please refer to the `NOTICE.md` file inside each subproject folder under `Project Games/`.
+> For asset usage details specific to individual games, please refer to the `NOTICE.md` file inside each subproject folder under `Project Execution/`.
 
 ## Licensing
 

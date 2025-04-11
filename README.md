@@ -11,7 +11,7 @@
 - **End Date**: Ongoing 
 - **Total Time Required**: 10 Days (Ongoing)
 
-### My Introduction  
+### Maintainence Team Introduction  
 
 | Name                   | GitHub Profile | LinkedIn Profile |
 |------------------------|----------------|------------------|
@@ -40,10 +40,10 @@ Whether you're here to build your own game, learn by reading code, or just explo
 
 ---
 
-## Project Expansion 🚀  
+## Project Games 🚀  
 
 ### Subprojects Under RetroFusion
-RetroFusion is designed to evolve continuously as new retro-inspired games are added under its umbrella. Each subproject is a standalone mini-game with its own mechanics and theme — yet all share the nostalgic charm of the retro era.
+RetroFusion is designed to evolve continuously as new retro-inspired games are added under its umbrella. Each subproject is a standalone game with its own mechanics and theme — yet all share the nostalgic charm of the retro era.
 
 Explore the current game(s) below. More subprojects will be added over time by the original creator and community contributors.
 
@@ -59,7 +59,7 @@ Explore the current game(s) below. More subprojects will be added over time by t
 
 #### 🔗 Visit Project Folder
 
-[![Open Folder](https://img.shields.io/badge/Go%20to%20Folder-Sub--Project%2001%20--%20Bounceario-darkgreen?style=for-the-badge&logo=github)]()
+[![Open Folder](https://img.shields.io/badge/Go%20to%20Folder-Sub--Project%2001%20--%20Bounceario-darkgreen?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario)
 
 ---
 
