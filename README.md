@@ -78,7 +78,7 @@ By **copyrighting RetroFusion**, I reinforce my commitment to creating **safe, e
 
 > *Securing copyright is a vital step in promoting innovation, ensuring recognition, and laying the groundwork for future advancements in open-source and indie game development.*
 
-> *I have already filed for the Copyright Certificate and completed all required processes. The registration is currently under process and hence the certificate will be updated here once available.*
+> *I have already filed for the Copyright Certificate and completed all required processes. The above certificate is just a Placeholder Certificate. The registration is currently under process and hence the original certificate will be updated here once available.*
 
 ---
 
