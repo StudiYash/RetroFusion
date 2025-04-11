@@ -27,11 +27,14 @@ If you have ideas for new features or improvements, feel free to open an issue w
 3. **Make Changes**: Commit your changes, ensuring your code adheres to the project's coding standards.
 4. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to the main repository. Please ensure your pull request includes a clear description of the changes and references any related issues.
 
+> ⚠️ Important: Please do not include any copyrighted images, sound effects, or other media from third-party games unless you have the legal right to use them. If you're using assets that are inspired by other games, please make sure they are sufficiently original or fall under fair use.
+
 ### Contributor License Agreement (CLA)
 
 Before we can accept your contributions, you’ll need to agree to our Contributor License Agreement (CLA). This ensures that you retain the copyright to your contributions while granting us the right to distribute them under the project's license. You can find the CLA [here](https://github.com/StudiYash/RetroFusion/blob/main/CLA.md).
 
-By submitting a contribution, you agree that your contribution is licensed under the same license as the RetroFusion project (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International).
+By submitting a contribution, you acknowledge that your work will be distributed under the project's license — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+You also agree that your contributions must be non-commercial in nature and may not be used for commercial gain by you or others.
 
 ### Coding Standards
 
