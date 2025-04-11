@@ -47,15 +47,15 @@ RetroFusion is designed to evolve continuously as new retro-inspired games are a
 
 Explore the current game(s) below. More subprojects will be added over time by the original creator and community contributors.
 
-#### 🕹️ Sub-Project - **Bounceario**
+### 🕹️ Sub-Project 01 - **Bounceario**
 
 | Subproject Name | Description | Download EXE | Watch in Action |
 |-----------------|-------------|---------------|-----------------|
-| **Bounceario** | yyyy | [![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)]() | [![Watch](https://img.shields.io/badge/Watch-Bounceario-white?style=for-the-badge&logo=YouTube)]() |
+| **Bounceario** | A dynamic 2D retro platformer with coins, enemies, powerups, and gun-shooting mechanics. | [![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)]() | [![Watch](https://img.shields.io/badge/Watch-Bounceario-white?style=for-the-badge&logo=YouTube)]() |
 
 #### 📝 About Bounceario
 
-yyyy
+**Bounceario** is a vibrant, retro-style 2D platformer built using Pygame and Tkinter. The game features a dynamic terrain system, randomly generated floating platforms, and various enemies like spiders that challenge the player’s reflexes. Players control a red bouncing ball with intuitive jump physics, collectible coins, and power-ups like mushrooms for temporary invincibility and guns for shooting bullets. Bounceario also includes background music, animated splash screens, and a heart-based life system, making it a polished and immersive mini-game experience designed for non-commercial creative learning.
 
 #### 🔗 Visit Project Folder
 
