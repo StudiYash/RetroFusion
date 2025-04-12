@@ -1,4 +1,4 @@
-# ![Bounceario](https://github.com/StudiYash/RetroFusion/blob/main/Project%20Expansion/Sub-Project%2001%20-%20Bounceario/Bounceario%20Logo.png)
+# ![Bounceario](https://github.com/StudiYash/RetroFusion/blob/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Bounceario%20Logo.png)
 
 ## Project Introduction 🛡️
 
@@ -8,7 +8,7 @@
 ### Project Timeline 
 
 - **Start Date**: 2nd April 2025  
-- **End Date**: 12th April
+- **End Date**: 12th April 2025
 - **Total Time Required**: 11 Days
 
 ### Developers Introduction  
@@ -92,7 +92,7 @@ To complement the textual explanation, a professionally designed diagram named *
 
 The diagram serves as a quick reference for understanding how each part of Bounceario contributes to the overall gameplay experience.
 
-[![Game Structure](https://img.shields.io/badge/View-Game%20Structure-gold?style=for-the-badge&logo=Canva)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/IEEE%20Paper%20Published%20Copy%20Official.pdf)
+[![Game Structure](https://img.shields.io/badge/View-Game%20Structure-gold?style=for-the-badge&logo=Canva)](https://github.com/StudiYash/RetroFusion/blob/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Support%20Files/Game%20Structure.png)
 
 ---
 
@@ -130,7 +130,7 @@ The integrated code combines all of these components into a cohesive, responsive
 
 For detailed information, visit the
 
-[![Explore Project Backend](https://img.shields.io/badge/View-Project%20Backend-white?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Expansion/Sub-Project%2001%20-%20Bounceario/Project%20Backend)
+[![Explore Project Backend](https://img.shields.io/badge/View-Project%20Backend-white?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Backend)
 
 ---
 
@@ -145,7 +145,7 @@ The **Project Frontend** focuses on delivering a user-friendly and aesthetically
 
 For detailed instructions, visit the 
 
-[![Explore Project Frontend](https://img.shields.io/badge/View-Project%20Frontend-pink?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Expansion/Sub-Project%2001%20-%20Bounceario/Project%20Frontend)
+[![Explore Project Frontend](https://img.shields.io/badge/View-Project%20Frontend-pink?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Frontend)
 
 ---
 
@@ -163,7 +163,7 @@ For detailed instructions, visit the
 
 For more information about Project Windows Application, visit the 
 
-[![Project Windows Application](https://img.shields.io/badge/View-Project%20Windows%20Application-indigo?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Expansion/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application)
+[![Project Windows Application](https://img.shields.io/badge/View-Project%20Windows%20Application-indigo?style=for-the-badge&logo=github)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application)
 
 ---
 
