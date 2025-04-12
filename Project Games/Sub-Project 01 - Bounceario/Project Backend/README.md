@@ -52,10 +52,6 @@ Each of the 24 Progression Marks demonstrates a key milestone in the game’s de
 Each mark focuses on adding or refining specific features. If you modify or extend the project further, consider testing individual marks to ensure the integrity of each component.
 - **Non-Commercial Use:**
 Bounceario is developed strictly for educational and non-commercial purposes. All assets and code snippets are used in accordance with their original licenses.
-- **Further Development:**
-For an in-depth understanding of how each feature was integrated over time, please refer to our **Mark Model Index Document**. This document thoroughly explains the evolution of the backend and how each feature was methodically integrated into the final product.
-
-[![Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Support%20Files/Mark%20Model%20Index.pdf)
 
 ---
 

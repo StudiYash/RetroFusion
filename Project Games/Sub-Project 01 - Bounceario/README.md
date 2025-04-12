@@ -100,12 +100,7 @@ The diagram serves as a quick reference for understanding how each part of Bounc
 
 ### Mark Models Index
 
-The backend development of **Bounceario** was an intricate journey, involving rigorous iterative coding and step-by-step feature integration. Over the course of development, **24 Mark Files** were created each capturing the evolution of the game as new features and improvements were introduced. The 24th Mark File represents the final, integrated version of the game, consolidating every enhancement and refinement made during this creative process.
-
-The **Mark Model Index Document** provides a comprehensive overview of this journey, showcasing each phase's evolution—from early conceptual drafts to the final, optimized version of Bounceario. Dive into the document to see how every Mark File contributed to shaping Bounceario into the engaging retro platformer it is today.
-
-[![Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/RetroFusion/blob/main/Support%20Files/Mark%20Model%20Index.pdf)
-
+The backend development of **Bounceario** was an intricate journey, involving rigorous iterative coding and step-by-step feature integration. Over the course of development, **23 Mark Files** were created each capturing the evolution of the game as new features and improvements were introduced. The 23rd Mark File represents the final, integrated version of the game, consolidating every enhancement and refinement made during this creative process.
 
 ---
 
