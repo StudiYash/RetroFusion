@@ -9,7 +9,7 @@ The Bounceario installer is constructed using resources from the **Project Backe
 **📥 Download Bounceario**
 > Click the button below to download the latest version of Bounceario.
 
-[![Bounceario Windows Application](https://img.shields.io/badge/View-Download%20Bounceario%20Windows%20Application-gold?style=for-the-badge&logo=GitHub)](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application/Bounceario.exe)
+[![Bounceario Windows Application](https://img.shields.io/badge/View-Download%20Bounceario%20Windows%20Application-gold?style=for-the-badge&logo=GitHub)](https://github.com/StudiYash/RetroFusion/blob/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application/Bounceario.exe)
 
 🔹 **How to Download:**
 1. Click the button above ☝️
@@ -99,16 +99,7 @@ Relax while Bounceario is being installed on your system.
 
 ---
 
-### Step 7: After Install Information 🔍
-Learn about additional features or steps post-installation.
-
-<div align="center">
-  <img src="https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application/Installer%20Step%207.png" alt="Step 7: After Install Information" width="750" height="600">
-</div>
-
----
-
-### Step 8: Finish Screen 🎉
+### Step 7: Finish Screen 🎉
 Congratulations! The installation is complete. Click **Finish** to start using Bounceario.
 
 <div align="center">

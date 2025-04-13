@@ -13,7 +13,7 @@ Below is a table listing the current subprojects. As new games are developed, th
 
 | Subproject Name | Description | Download EXE | Watch in Action |
 |-----------------|-------------|---------------|-----------------|
-| **Bounceario**  | A dynamic 2D retro platformer with coins, enemies, powerups, and gun-shooting mechanics. | [![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)]() | [![Watch](https://img.shields.io/badge/Watch-Bounceario-white?style=for-the-badge&logo=YouTube)]() |
+| **Bounceario**  | A dynamic 2D retro platformer with coins, enemies, powerups, and gun-shooting mechanics. | [![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)](https://github.com/StudiYash/RetroFusion/blob/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application/Bounceario.exe) | [![Watch](https://img.shields.io/badge/Watch-Bounceario-white?style=for-the-badge&logo=YouTube)]() |
 
 ## How to Add a New Subproject
 

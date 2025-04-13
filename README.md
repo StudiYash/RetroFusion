@@ -9,7 +9,7 @@
 
 - **Start Date**: 2nd April 2025  
 - **End Date**: Ongoing 
-- **Total Time Required**: 10 Days (Ongoing)
+- **Total Time Required**: (Ongoing)
 
 ### Maintainence Team Introduction  
 
@@ -51,7 +51,7 @@ Explore the current game(s) below. More subprojects will be added over time by t
 
 | Subproject Name | Description | Download EXE | Watch in Action |
 |-----------------|-------------|---------------|-----------------|
-| **Bounceario** | A dynamic 2D retro platformer with coins, enemies, powerups, and gun-shooting mechanics. | [![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)]() | [![Watch](https://img.shields.io/badge/Watch-Bounceario-white?style=for-the-badge&logo=YouTube)]() |
+| **Bounceario** | A dynamic 2D retro platformer with coins, enemies, powerups, and gun-shooting mechanics. | [![Download](https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows)](https://github.com/StudiYash/RetroFusion/blob/main/Project%20Games/Sub-Project%2001%20-%20Bounceario/Project%20Windows%20Application/Bounceario.exe) | [![Watch](https://img.shields.io/badge/Watch-Bounceario-white?style=for-the-badge&logo=YouTube)]() |
 
 #### 📝 About Bounceario
 
