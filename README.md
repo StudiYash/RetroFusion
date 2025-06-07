@@ -10,6 +10,7 @@
 - **Start Date**: 2nd April 2025  
 - **End Date**: Ongoing 
 - **Total Time Required**: (Ongoing)
+> As new games will constantly keep getting added in future, thr project will always remain in the ongoing phase. For timeline of each game, visit the individual game folder.
 
 ### Maintainence Team Introduction  
 
